@@ -5,6 +5,8 @@ Anthropic on Bedrock - Commercial Terms of Service
 
 This document outlines Anthropic's Commercial Terms of Service for their AI services provided through Amazon Bedrock, with several key provisions regarding proprietary code usage.
 
+https://github.com/ThreeSteve/AWS.Anthropic.Opus.4/blob/main/AWS%2CBedrock.Anthropic.Opus.4.Agreement.pdf
+
 ## Customer Content and Code Ownership
 
 Anthropic explicitly states that customers retain full ownership of their proprietary code and content. The technology provided by Anthropic to AWS does not give Anthropic access to the customer's AWS instance, including prompts or outputs ("Customer Content"). Anthropic disclaims any rights to customer content and assigns to customers all rights to outputs generated from their proprietary data.
